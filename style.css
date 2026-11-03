@@ -64,7 +64,7 @@ p {
 }
 
 .character1 {
-  background: url(../img/character1.png) no-repeat 0 0;
+  background: url(/img/character1.png) no-repeat 0 0;
   background-size: 100%;
   width: 363px;
   height: 400px;
@@ -75,7 +75,7 @@ p {
 }
 
 .character2 {
-  background: url(../img/character2.png) no-repeat 0 0;
+  background: url(/img/character2.png) no-repeat 0 0;
   background-size: 100%;
   width: 309px;
   height: 410px;
@@ -85,7 +85,7 @@ p {
 }
 
 .character3 {
-  background: url(../img/character3.png) no-repeat 0 0;
+  background: url(/img/character3.png) no-repeat 0 0;
   background-size: 100%;
   width: 297px;
   height: 450px;
@@ -140,7 +140,7 @@ nav .logo {
   left: 0;
   margin-top: -30px;
   margin-left: 30px;
-  background: url(../img/logo.png) no-repeat 0 0;
+  background: url(/img/logo.png) no-repeat 0 0;
   background-size: 100%;
   overflow: hidden;
   text-indent: -999px;
@@ -262,7 +262,7 @@ nav ul li a {
   position: absolute;
   width: 54px;
   height: 60px;
-  background: url(../img/hand.png) no-repeat 0 0;
+  background: url(/img/hand.png) no-repeat 0 0;
   background-size: 100%;
   bottom: 0;
   left: 60%;
@@ -333,7 +333,7 @@ footer a {
   width: 80px;
   height: 80px;
   background-color: #f30;
-  background: #f30 url(../img/close.png) no-repeat center center;
+  background: #f30 url(/img/close.png) no-repeat center center;
   background-size: 50%;
   position: absolute;
   top: -40px;
